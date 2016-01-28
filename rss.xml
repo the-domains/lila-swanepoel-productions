@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LILA SWANEPOEL PRODUCTIONS]]></title>
         <description><![CDATA[LILA SWANEPOEL PRODUCTIONS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lila-swanepoel-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 11:45:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 12:18:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lila-swanepoel-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9009fc38-380b-4b2c-8755-51a298353295.jpg">]]></description>
+            <link>https://thegrid.ai/lila-swanepoel-productions/b1033ba0-979e-49fe-a8ef-f2a617974644/index.html</link>
+            <guid isPermaLink="false">b1033ba0-979e-49fe-a8ef-f2a617974644</guid>
+            <pubDate>Thu, 28 Jan 2016 12:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e59f6f8e-97e5-42dc-a8b3-b07cc73b02c0.jpg">]]></description>
-            <link>undefinedb053ecf7-552b-40bb-b61d-29cdb5d21734/index.html</link>
+            <link>https://thegrid.ai/lila-swanepoel-productions/b053ecf7-552b-40bb-b61d-29cdb5d21734/index.html</link>
             <guid isPermaLink="false">b053ecf7-552b-40bb-b61d-29cdb5d21734</guid>
             <pubDate>Thu, 28 Jan 2016 11:44:41 GMT</pubDate>
         </item>
