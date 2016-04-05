@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'LILA WAS PART OF THE OSCAR WINNING PRODUCTION DESIGN TEAM OF "MAD MAX FURY ROAD" AS SET DRESSER'
-datePublished: '2016-04-05T16:38:59.156Z'
-dateModified: '2016-04-05T16:38:34.592Z'
+datePublished: '2016-04-05T16:40:36.858Z'
+dateModified: '2016-04-05T16:39:54.033Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-lila-was-part-of-the-oscar-winning-production-design-team-of.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-lila-was-part-of-the-oscar-winning-production-design-team-of.md
-published: true
 url: lila-was-part-of-the-oscar-winning-production-design-team-of/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ffa42e-5a83-417b-8444-830e24ec788b.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08b6f3a-3194-4d71-9228-168ec2f2d40d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90c9f775-9a5d-4920-bc7f-48d99d0a5a00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29806876-58a5-45c1-b058-6e609bd737ac.jpg)
