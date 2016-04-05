@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "2014 NAMIBIAN THEATRE AND FILM AWARDS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Best Stage and Set Design \_ \_ \_ \_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \"A Lifetime of Blues\""
-datePublished: '2016-04-05T16:15:11.174Z'
-dateModified: '2016-04-05T16:15:05.540Z'
+description: "2014 NAMIBIAN THEATRE AND FILM AWARDS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
+datePublished: '2016-04-05T16:16:00.686Z'
+dateModified: '2016-04-05T16:15:49.857Z'
 title: 2014 Namibian Theatre and Film Awards - Best Stage and Set Design
 author: []
 sourcePath: _posts/2016-04-05-2014-namibian-theatre-and-film-awards-best-stage-and-set-d.md
