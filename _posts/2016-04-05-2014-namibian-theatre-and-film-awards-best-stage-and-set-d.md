@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "2014 NAMIBIAN THEATRE AND FILM AWARDS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
-datePublished: '2016-04-05T16:16:00.686Z'
-dateModified: '2016-04-05T16:15:49.857Z'
+description: 'LILA SWANEPOEL WON BEST SET AND STAGE DESIGN FOR THE STAGE PRODUCTION "A LIFETIME OF BLUES" AT THE 2014 NAMIBIAN THEATRE AND FILM AWARDS    '
+datePublished: '2016-04-05T16:20:12.559Z'
+dateModified: '2016-04-05T16:19:54.370Z'
 title: 2014 Namibian Theatre and Film Awards - Best Stage and Set Design
 author: []
 sourcePath: _posts/2016-04-05-2014-namibian-theatre-and-film-awards-best-stage-and-set-d.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d367cda-bbcf-43a1-8a01-5afa32cb1251.jpg)
+LILA SWANEPOEL WON BEST SET AND STAGE DESIGN AT THE 2014 NAMIBIAN THEATRE AND FILM AWARDS FOR THE STAGE PRODUCTION "A LIFETIME OF BLUES" ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d367cda-bbcf-43a1-8a01-5afa32cb1251.jpg)
