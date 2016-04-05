@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: '2014 Namibian Theatre and Film Awards Best Stage and Set Design - "A Lifetime of Blues"'
-datePublished: '2016-04-05T11:29:51.371Z'
-dateModified: '2016-04-05T11:25:29.917Z'
+description: "2014 Namibian Theatre and Film Awards Best Stage and Set Design \_ \_ \_ \_ \_ \"A Lifetime of Blues\""
+datePublished: '2016-04-05T12:14:12.604Z'
+dateModified: '2016-04-05T12:13:50.115Z'
 title: 2014 Namibian Theatre and Film Awards - Best Stage and Set Design
 author: []
 sourcePath: _posts/2016-04-05-2014-namibian-theatre-and-film-awards-best-stage-and-set-d.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-2014 Namibian Theatre and Film Awards Best Stage and Set Design - "A Lifetime of Blues"
+2014 Namibian Theatre and Film Awards Best Stage and Set Design           "A Lifetime of Blues"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0203a2c5-f0b9-4a9c-bcce-a6d987792423.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d232ee01-9ce0-4635-92cf-77884431719d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c903fa-a6a2-4879-bf62-9829bee1265c.jpg)
