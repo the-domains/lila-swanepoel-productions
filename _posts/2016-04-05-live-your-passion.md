@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: LIVE YOUR PASSION
-datePublished: '2016-04-05T17:17:21.922Z'
-dateModified: '2016-04-05T17:17:19.265Z'
-title: ''
+description: ''
+datePublished: '2016-04-06T12:54:40.878Z'
+dateModified: '2016-04-06T12:53:47.454Z'
+title: LIVE YOUR PASSION
 author: []
 sourcePath: _posts/2016-04-05-live-your-passion.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: live-your-passion/index.html
-_type: Article
+_type: Blurb
 
 ---
 LIVE YOUR PASSION
