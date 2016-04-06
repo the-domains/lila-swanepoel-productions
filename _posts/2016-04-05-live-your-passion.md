@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T12:54:40.878Z'
-dateModified: '2016-04-06T12:53:47.454Z'
+datePublished: '2016-04-06T12:55:00.480Z'
+dateModified: '2016-04-06T12:54:50.618Z'
 title: LIVE YOUR PASSION
 author: []
 sourcePath: _posts/2016-04-05-live-your-passion.md
