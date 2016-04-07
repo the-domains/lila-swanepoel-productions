@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'LILA WON BEST SET AND STAGE DESIGN AT THE 2014 NAMIBIAN THEATRE AND FILM AWARDS    FOR THE STAGE PRODUCTION "A LIFETIME OF BLUES" '
-datePublished: '2016-04-06T12:54:02.552Z'
-dateModified: '2016-04-06T12:54:02.282Z'
-title: 2014 Namibian Theatre and Film Awards - Best Stage and Set Design
+datePublished: '2016-04-07T17:18:51.466Z'
+dateModified: '2016-04-07T17:18:49.928Z'
+title: '2014 Namibian Theatre and Film Awards - Best Stage and Set Design LILA WON BEST SET AND STAGE DESIGN AT THE 2014 NAMIBIAN THEATRE AND FILM AWARDS    FOR THE STAGE PRODUCTION "A LIFETIME OF BLUES" '
 author: []
 sourcePath: _posts/2016-04-05-2014-namibian-theatre-and-film-awards-best-stage-and-set-d.md
 published: true
