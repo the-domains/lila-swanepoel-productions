@@ -4,8 +4,15 @@
         <description><![CDATA[LILA SWANEPOEL PRODUCTIONS]]></description>
         <link>https://thegrid.ai/lila-swanepoel-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 14:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:55:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lila-swanepoel-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Proudly Namibian</p>]]></description>
+            <link>https://thegrid.ai/lila-swanepoel-productions/proudly-namibian/index.html</link>
+            <guid isPermaLink="false">b9141d2f-86d2-4f46-8b2d-a7c3ab72d4e3</guid>
+            <pubDate>Sat, 09 Apr 2016 14:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anima Official Promo: NTN Show Windhoek 18 and 19 July 2014]]></title>
             <description><![CDATA[<article><h1>Anima Official Promo: NTN Show Windhoek 18 and 19 July 2014</h1><p>A Lila Swanepoel Production Filmed by Lila Swanepoel and Haiko Boldt Edited by Lila Swanepoel 2014 (c) *Copyright Lila Swanepoel Special Thanks DB Audio Namibia</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/354945b3e88e617df39f9f802ad824a09913bad2.jpg"></article>]]></description>
@@ -42,18 +49,18 @@
             <pubDate>Wed, 06 Apr 2016 12:51:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lila Swanepoel Productions is a full service production company with 15 years experience in the International and Namibian Film and TV Industry.  We offer concept to completion as well as stand alone production and post production services.</p>]]></description>
-            <link>https://thegrid.ai/lila-swanepoel-productions/04e38eb1-c9d8-4d67-962e-68b65f9d314b/index.html</link>
-            <guid isPermaLink="false">04e38eb1-c9d8-4d67-962e-68b65f9d314b</guid>
-            <pubDate>Tue, 05 Apr 2016 10:10:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Current. Creative. Content.]]></title>
             <description><![CDATA[<h1>Current. Creative. Content.</h1>]]></description>
             <link>https://thegrid.ai/lila-swanepoel-productions/cad3daa9-1a42-4a90-8ca1-2e4195d4086c/index.html</link>
             <guid isPermaLink="false">cad3daa9-1a42-4a90-8ca1-2e4195d4086c</guid>
             <pubDate>Tue, 05 Apr 2016 17:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lila Swanepoel Productions is a full service production company with 15 years experience in the International and Namibian Film and TV Industry.  We offer concept to completion as well as stand alone production and post production services.</p>]]></description>
+            <link>https://thegrid.ai/lila-swanepoel-productions/04e38eb1-c9d8-4d67-962e-68b65f9d314b/index.html</link>
+            <guid isPermaLink="false">04e38eb1-c9d8-4d67-962e-68b65f9d314b</guid>
+            <pubDate>Tue, 05 Apr 2016 10:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
