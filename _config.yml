@@ -1,6 +1,6 @@
 name: LILA SWANEPOEL PRODUCTIONS
 favicon: null
-layout_spectrum: 0.24891
+layout_spectrum: 0.48573
 typography_spectrum: 0.23365
 title: LILA SWANEPOEL PRODUCTIONS
 cta:
@@ -22,7 +22,7 @@ color:
     - '#599cc2'
     - '#21242d'
     - '#2c4d6e'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.75
