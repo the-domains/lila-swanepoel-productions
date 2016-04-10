@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Lila Swanepoel
-    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - indonesia
@@ -21,7 +16,13 @@ keywords:
   - gunung
   - skyscanner
 description: A Lila Swanepoel Production (c) 2015 Lila Swanepoel. All rights reserved.
-inLanguage: en
+datePublished: '2016-04-10T10:06:54.373Z'
+dateModified: '2016-04-10T10:06:49.838Z'
+author:
+  - name: Lila Swanepoel
+    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=nqQ0Y95LgXo&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=nqQ0Y95LgXo'
 title: Wonderful Indonesia - Travel with Your Soul 2
-datePublished: '2016-04-06T12:51:44.869Z'
-dateModified: '2016-04-06T12:48:12.061Z'
 sourcePath: _posts/2016-04-06-wonderful-indonesia-travel-with-your-soul-2.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: wonderful-indonesia-travel-with-your-soul-2/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
