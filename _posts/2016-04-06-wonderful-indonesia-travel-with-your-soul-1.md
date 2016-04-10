@@ -15,9 +15,9 @@ keywords:
   - lila
   - '2015'
   - gunung
-description: Filmed and Edited by Lila Swanepoel (c) 2015 Lila Swanepoel. All rights reserved.
-datePublished: '2016-04-10T10:40:39.232Z'
-dateModified: '2016-04-10T10:39:40.965Z'
+description: A Lila Swanepoel Production
+datePublished: '2016-04-10T10:41:09.906Z'
+dateModified: '2016-04-10T10:41:07.082Z'
 author:
   - name: Lila Swanepoel
     url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
@@ -74,4 +74,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+A Lila Swanepoel Production
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZt-MU-0cHBw%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZt-MU-0cHBw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZt-MU-0cHBw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
