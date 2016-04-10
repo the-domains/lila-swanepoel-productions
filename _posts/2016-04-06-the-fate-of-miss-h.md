@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: Filmed and edited by Lila Swanepoel Filmed with the Sony PXW-FS7 4K XDCAM Super35 Camcorder with 28 to 135mm Zoom Lens (c) 2015 Lila Swanepoel. All rights reserved. Audio by Adam Brandon-Kirby
+datePublished: '2016-04-10T10:07:25.711Z'
+dateModified: '2016-04-10T10:07:19.355Z'
 author:
   - name: Lila Swanepoel
     url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Filmed and edited by Lila Swanepoel Filmed with the Sony PXW-FS7 4K XDCAM Super35 Camcorder with 28 to 135mm Zoom Lens (c) 2015 Lila Swanepoel. All rights reserved. Audio by Adam Brandon-Kirby
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=8xuEAgjB0pw'
 title: The Fate of Miss H
-datePublished: '2016-04-06T12:51:56.224Z'
-dateModified: '2016-04-06T12:47:38.376Z'
 sourcePath: _posts/2016-04-06-the-fate-of-miss-h.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: the-fate-of-miss-h/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
