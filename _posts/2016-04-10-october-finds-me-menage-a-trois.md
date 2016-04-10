@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=96tqerVrP4k'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - sweetietray
   - austinbrownvevo
 description: BLAST FROM THE PAST...
-datePublished: '2016-04-10T08:05:32.183Z'
-dateModified: '2016-04-10T08:05:28.599Z'
+datePublished: '2016-04-10T09:54:39.003Z'
+dateModified: '2016-04-10T09:54:37.475Z'
 author:
   - name: mrvanzel
     url: 'https://www.youtube.com/user/mrvanzel'
@@ -70,6 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: october-finds-me-menage-a-trois/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
