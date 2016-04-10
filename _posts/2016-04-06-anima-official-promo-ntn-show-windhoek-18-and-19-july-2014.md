@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: 'A Lila Swanepoel Production Filmed by Lila Swanepoel and Haiko Boldt Edited by Lila Swanepoel 2014 (c) *Copyright Lila Swanepoel Special Thanks DB Audio Namibia'
+datePublished: '2016-04-10T10:06:32.894Z'
+dateModified: '2016-04-10T10:06:31.417Z'
 author:
   - name: Lila Swanepoel
     url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'A Lila Swanepoel Production Filmed by Lila Swanepoel and Haiko Boldt Edited by Lila Swanepoel 2014 (c) *Copyright Lila Swanepoel Special Thanks DB Audio Namibia'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=40hVBg-2UZg'
 title: 'Anima Official Promo: NTN Show Windhoek 18 and 19 July 2014'
-datePublished: '2016-04-06T13:01:12.651Z'
-dateModified: '2016-04-06T12:59:34.302Z'
 sourcePath: _posts/2016-04-06-anima-official-promo-ntn-show-windhoek-18-and-19-july-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: anima-official-promo-ntn-show-windhoek-18-and-19-july-2014/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
