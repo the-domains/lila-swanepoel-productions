@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Lila Swanepoel
-    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - swanepoel
@@ -21,7 +16,13 @@ keywords:
   - promo
   - jazzart
 description: Filmed and Edited by Lila Swanepoel (c) Special Thanks DB Audio Namibia
-inLanguage: en
+datePublished: '2016-04-10T10:06:43.471Z'
+dateModified: '2016-04-10T10:06:38.828Z'
+author:
+  - name: Lila Swanepoel
+    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=W2jHBygd6oc&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=W2jHBygd6oc'
 title: Anima 2014 First Rain Dance Theatre Official Promo Video
-datePublished: '2016-04-06T12:52:13.976Z'
-dateModified: '2016-04-06T12:50:29.960Z'
 sourcePath: _posts/2016-04-06-anima-2014-first-rain-dance-theatre-official-promo-video.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: anima-2014-first-rain-dance-theatre-official-promo-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
