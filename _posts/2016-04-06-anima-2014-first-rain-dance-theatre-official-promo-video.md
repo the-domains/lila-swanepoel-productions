@@ -16,8 +16,8 @@ keywords:
   - promo
   - jazzart
 description: Filmed and Edited by Lila Swanepoel (c) Special Thanks DB Audio Namibia
-datePublished: '2016-04-10T10:06:43.471Z'
-dateModified: '2016-04-10T10:06:38.828Z'
+datePublished: '2016-04-10T10:31:58.934Z'
+dateModified: '2016-04-10T10:10:25.117Z'
 author:
   - name: Lila Swanepoel
     url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
