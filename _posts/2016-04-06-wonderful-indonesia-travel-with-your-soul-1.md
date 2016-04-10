@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Lila Swanepoel
-    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - indonesia
   - duration
@@ -21,7 +16,13 @@ keywords:
   - '2015'
   - gunung
 description: Filmed and Edited by Lila Swanepoel (c) 2015 Lila Swanepoel. All rights reserved.
-inLanguage: en
+datePublished: '2016-04-10T10:07:09.649Z'
+dateModified: '2016-04-10T10:07:07.977Z'
+author:
+  - name: Lila Swanepoel
+    url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Zt-MU-0cHBw&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Zt-MU-0cHBw'
 title: Wonderful Indonesia - Travel with Your Soul 1
-datePublished: '2016-04-06T12:51:33.945Z'
-dateModified: '2016-04-06T12:47:58.323Z'
 sourcePath: _posts/2016-04-06-wonderful-indonesia-travel-with-your-soul-1.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: wonderful-indonesia-travel-with-your-soul-1/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
