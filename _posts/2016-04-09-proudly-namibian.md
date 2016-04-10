@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Proudly Namibian
-datePublished: '2016-04-10T07:55:41.677Z'
-dateModified: '2016-04-10T07:55:34.810Z'
+datePublished: '2016-04-10T07:59:51.377Z'
+dateModified: '2016-04-10T07:59:38.212Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-proudly-namibian.md
@@ -30,4 +30,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63802872-9e8a-4cf7-99c5-fd41967a6e0c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ba7ad16-0727-4881-ac46-79053fd2546d.jpg)
 
+[**Proudly Namibian**][1]
+
+2016 Music Videos Directed and Produced by LILA - TONETIC
+
 [0]: null
+[1]: https://app.thegrid.io/posts/b9141d2f-86d2-4f46-8b2d-a7c3ab72d4e3/null
