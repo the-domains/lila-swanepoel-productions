@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Proudly Namibian
-datePublished: '2016-04-10T07:59:51.377Z'
-dateModified: '2016-04-10T07:59:38.212Z'
+datePublished: '2016-04-10T08:00:57.339Z'
+dateModified: '2016-04-10T08:00:10.610Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-proudly-namibian.md
