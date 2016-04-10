@@ -16,9 +16,9 @@ keywords:
   - lizz
   - sweetietray
   - austinbrownvevo
-description: 'Official Music video from South African band Ménage à Trois, an acoustic-driven femme folk-rock band. Lyrics by Auriel Lefebre'
-datePublished: '2016-04-10T08:02:54.767Z'
-dateModified: '2016-04-10T08:02:51.331Z'
+description: BLAST FROM THE PAST...
+datePublished: '2016-04-10T08:05:32.183Z'
+dateModified: '2016-04-10T08:05:28.599Z'
 author:
   - name: mrvanzel
     url: 'https://www.youtube.com/user/mrvanzel'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: October Finds Me - Ménage à Trois
+title: 'October Finds Me - Ménage à Trois '
 sourcePath: _posts/2016-04-10-october-finds-me-menage-a-trois.md
 published: true
 authors: []
