@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Proudly Namibian
-datePublished: '2016-04-10T08:00:57.339Z'
-dateModified: '2016-04-10T08:00:10.610Z'
-title: ''
+datePublished: '2016-04-10T08:04:05.688Z'
+dateModified: '2016-04-10T08:04:04.044Z'
+title: 2016 Music Videos Directed and Produced by LILA - TONETIC - IN POST PRODUCTION
 author: []
 sourcePath: _posts/2016-04-09-proudly-namibian.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: proudly-namibian/index.html
-_type: Article
+_type: Blurb
 
 ---
 [**Proudly Namibian**][0]
