@@ -1,14 +1,10 @@
 ---
-author:
-  - name: mrvanzel
-    url: 'https://www.youtube.com/user/mrvanzel'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=96tqerVrP4k'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - trois
@@ -21,7 +17,13 @@ keywords:
   - sweetietray
   - austinbrownvevo
 description: 'Official Music video from South African band Ménage à Trois, an acoustic-driven femme folk-rock band. Lyrics by Auriel Lefebre'
-inLanguage: en
+datePublished: '2016-04-10T07:56:33.814Z'
+dateModified: '2016-04-10T07:53:48.165Z'
+author:
+  - name: mrvanzel
+    url: 'https://www.youtube.com/user/mrvanzel'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=96tqerVrP4k&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=96tqerVrP4k'
 title: October Finds Me - Ménage à Trois
-datePublished: '2016-04-10T07:53:40.379Z'
-dateModified: '2016-04-10T07:51:09.949Z'
 sourcePath: _posts/2016-04-10-october-finds-me-menage-a-trois.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
