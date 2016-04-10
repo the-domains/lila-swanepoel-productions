@@ -17,8 +17,8 @@ keywords:
   - sweetietray
   - austinbrownvevo
 description: 'Official Music video from South African band Ménage à Trois, an acoustic-driven femme folk-rock band. Lyrics by Auriel Lefebre'
-datePublished: '2016-04-10T08:01:47.282Z'
-dateModified: '2016-04-10T07:57:47.516Z'
+datePublished: '2016-04-10T08:02:54.767Z'
+dateModified: '2016-04-10T08:02:51.331Z'
 author:
   - name: mrvanzel
     url: 'https://www.youtube.com/user/mrvanzel'
@@ -74,4 +74,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+BLAST FROM THE PAST...
+
+Music Video Produced and Directed by LILA in 2008
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F96tqerVrP4k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D96tqerVrP4k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F96tqerVrP4k%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
