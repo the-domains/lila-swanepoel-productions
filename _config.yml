@@ -1,29 +1,41 @@
-name: LILA SWANEPOEL PRODUCTIONS
-favicon: null
-layout_spectrum: 0.48573
-typography_spectrum: 0.23365
-title: LILA SWANEPOEL PRODUCTIONS
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.48573
+title: LILA SWANEPOEL PRODUCTIONS
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#d0e5f1'
     - '#599cc2'
     - '#21242d'
     - '#2c4d6e'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: LILA SWANEPOEL PRODUCTIONS
+typography_spectrum: 0.23365
