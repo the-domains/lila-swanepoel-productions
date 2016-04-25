@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - indonesia
   - duration
@@ -16,8 +15,8 @@ keywords:
   - '2015'
   - gunung
 description: A Lila Swanepoel Production
-datePublished: '2016-04-10T10:41:09.906Z'
-dateModified: '2016-04-10T10:41:07.082Z'
+datePublished: '2016-04-25T15:45:12.001Z'
+dateModified: '2016-04-25T15:45:03.673Z'
 author:
   - name: Lila Swanepoel
     url: 'https://www.youtube.com/channel/UCZK8PW-yG_AYkVLcjjxd6Wg'
@@ -69,6 +68,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 url: wonderful-indonesia-travel-with-your-soul-1/index.html
 _type: VideoObject
 _context: 'http://schema.org'
